@@ -1,0 +1,4 @@
+vhdl work "MyPackage.vhd"
+vhdl work "MUX.vhd"
+vhdl work "AdderSubtractor4.vhd"
+vhdl work "MainModule.vhd"

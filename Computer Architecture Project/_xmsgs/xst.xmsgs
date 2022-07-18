@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"D:\Long way AA\Materials\Architecture\Labs\PracticalExamSample\Solution\MainModule.vhd" Line 45: Net &lt;<arg fmt="%s" index="1">Tmp[3]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="890" delta="new" >"D:\Long way AA\Materials\Architecture\Labs\PracticalExamSample\Solution\MainModuleTest.vhd" Line 75: wait statement without UNTIL clause not supported for synthesis
+</msg>
+
+</messages>
+

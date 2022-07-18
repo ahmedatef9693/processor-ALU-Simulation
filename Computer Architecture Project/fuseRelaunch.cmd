@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Long way AA/Materials/Architecture/Labs/PracticalExamSample/Solution/MainModule_isim_beh.exe" -prj "D:/Long way AA/Materials/Architecture/Labs/PracticalExamSample/Solution/MainModule_beh.prj" "work.MainModule" 
